@@ -1,9 +1,9 @@
 {
   "version": "1.0.3",
   "type": "installer",
-  "url": "https://example.com/builds/MyGame-1.0.3-Setup.exe",
+  "url": "https://raw.githubusercontent.com/AhmedHammouda5000/UpdaterRepostory/refs/heads/main/",
   "size": 104857600,
-  "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
   "release_notes": "Bug fixes and small improvements.",
   "published_at": "2025-09-02T12:00:00Z"
 }
+
