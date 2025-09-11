@@ -5,18 +5,19 @@
     {
       "path": "GameContent.zip",
       "url": "https://raw.githubusercontent.com/AhmedHammouda5000/UpdaterRepostory/main/GameContent.zip",
-      "size": 12345678,
+      "size": 383,
       "sha256": "E9F2C7CA0FB8C8A4103872265630637DCCEA3807B428F7C51563394050A6005D "
     },
     {
       "path": "Version.txt",
       "url": "https://raw.githubusercontent.com/AhmedHammouda5000/UpdaterRepostory/main/Version.txt",
-      "size": 6,
+      "size": 7,
       "sha256":"4CA8BBD3C595EE306226C6996B32B8D47A900217C55A7ED0CFC868EE444F34F1"
     }
   ],
   "release_notes": "Bug fixes and small improvements.",
   "published_at": "2025-09-02T12:00:00Z"
 }
+
 
 
